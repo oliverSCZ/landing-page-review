@@ -213,18 +213,18 @@ footer {
     left: 5%;
     right: 5%;
   }
- 
+
   #nav-bar ul {
     width: 100%;
     display: flex;
     justify-content: flex-end;
   }
- 
+
   #nav-bar ul li {
     display: inline;
     margin-right: 50px;
   }
- 
+
   #nav-bar ul li:last-child {
     margin-right: 0;
   }
@@ -234,9 +234,5 @@ footer {
   #pricing {
     flex-direction: row;
     align-self: center;
-  }
- 
-  #pricing .card:not(last-child) {
-    margin-right: 15px;
   }
 }

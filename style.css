@@ -55,6 +55,7 @@ footer > ul li a {
   color: #000;
   text-decoration: none;
 }
+
 #nav-bar ul {
   text-align: center;
   padding: 0;
@@ -194,8 +195,6 @@ footer {
   background-color: #ddd;
 }
 
-
-
 /* ====== Media query ====== */
 
 @media (min-width: 550px) {
@@ -214,18 +213,18 @@ footer {
     left: 5%;
     right: 5%;
   }
-  
+ 
   #nav-bar ul {
     width: 100%;
     display: flex;
     justify-content: flex-end;
   }
-  
+ 
   #nav-bar ul li {
     display: inline;
     margin-right: 50px;
   }
-  
+ 
   #nav-bar ul li:last-child {
     margin-right: 0;
   }
@@ -236,7 +235,7 @@ footer {
     flex-direction: row;
     align-self: center;
   }
-  
+ 
   #pricing .card:not(last-child) {
     margin-right: 15px;
   }

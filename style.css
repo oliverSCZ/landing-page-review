@@ -24,7 +24,7 @@ body {
   left: 0;
   right: 0;
   top: 0;
-  background-color: #eeeeee;
+  background-color: #eee;
 }
 
 .logo {
@@ -59,7 +59,7 @@ body {
   text-decoration: none;
 }
 
-/* ======= form =================*/
+/* ======= form ================= */
 
 .form {
   max-width: 100%;
@@ -84,7 +84,7 @@ body {
 .form form input:first-child {
   margin-bottom: 20px;
   max-width: 300px;
-  background-color: #ffffff;
+  background-color: #fff;
   padding: 5px;
   width: 100%;
 }
@@ -98,7 +98,7 @@ body {
   border-radius: 4px;
 }
 
-/*====== features =====*/
+/* ====== features ===== */
 
 #features {
   max-width: 100%;
@@ -125,7 +125,7 @@ body {
   text-align: center;
 }
 
-/* ======= how it works ======*/
+/* ======= how it works ====== */
 #how-it-works {
   max-width: 100%;
   margin: 50px auto;
@@ -149,7 +149,7 @@ body {
 }
 
 #pricing .card h2 {
-  background-color: #dddddd;
+  background-color: #ddd;
   color: black;
   padding: 15px 0;
   width: 100%;
@@ -168,13 +168,12 @@ body {
   margin: 15px 0;
   background-color: #f1c40f;
   padding: 8px 20px;
-  border: none;
   border-radius: 2px;
   cursor: pointer;
   font-size: 24px;
 }
 
-/* ======= footer ==========*/
+/* ======= footer ========== */
 
 footer {
   padding: 20px;
@@ -200,7 +199,7 @@ footer > ul li a {
   text-decoration: none;
 }
 
-/* ====== Media query ======*/
+/* ====== Media query ====== */
 
 @media (min-width: 550px) {
   #features .card .icon {
@@ -218,15 +217,18 @@ footer > ul li a {
     left: 5%;
     right: 5%;
   }
+  
   #nav-bar ul {
     width: 100%;
     display: flex;
     justify-content: flex-end;
   }
+  
   #nav-bar ul li {
     display: inline;
     margin-right: 50px;
   }
+  
   #nav-bar ul li:last-child {
     margin-right: 0;
   }
@@ -237,7 +239,8 @@ footer > ul li a {
     flex-direction: row;
     align-self: center;
   }
-  pricing .card:not(last-child) {
+  
+  #pricing .card:not(last-child) {
     margin-right: 15px;
   }
 }

@@ -43,6 +43,18 @@ body {
   align-items: center;
 }
 
+footer > ul {
+  padding: 0;
+}
+
+footer > ul li {
+  display: inline;
+}
+
+footer > ul li a {
+  color: #000;
+  text-decoration: none;
+}
 #nav-bar ul {
   text-align: center;
   padding: 0;
@@ -182,22 +194,7 @@ footer {
   background-color: #ddd;
 }
 
-footer > ul {
-  padding: 0;
-}
 
-footer > ul li {
-  display: inline;
-}
-
-footer > ul li:not(last-child) {
-  margin-right: 10px;
-}
-
-footer > ul li a {
-  color: #000;
-  text-decoration: none;
-}
 
 /* ====== Media query ====== */
 

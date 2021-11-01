@@ -1,18 +1,18 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Project 1st Review
 
-> One paragraph statement about the project.
+> This is the first time that I review a project
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+This project was created for the purpose of doing my own reviewed.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Index.html
+- Style.css
+- Linter
 
 ## Live Demo
 
@@ -21,23 +21,7 @@ Additional description about the project and its features.
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+This project is a desktop version, only open in google chrome or firefox browser.
 
 
 
@@ -45,15 +29,10 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@olivercoimbra](https://github.com/olivercoimbra)
+- Twitter: [@olivercoimbra](https://twitter.com/olivercoimbra)
+- LinkedIn: [olivercoimbra](https://linkedin.com/in/olivercoimbra)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
